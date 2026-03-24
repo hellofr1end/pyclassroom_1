@@ -1,3 +1,4 @@
+https://telemost.yandex.ru/j/15187521491577
 # 1) API: https://randomuser.me/api/
 
 Что сделать:
